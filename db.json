@@ -1,0 +1,45 @@
+{
+  "code": 1,
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Amy",
+      "image": "https://example.com/images/amy.jpg",
+      "gender": 2,
+      "job": "Software Development Engineer",
+      "entrydate": "2020-01-02",
+      "updatetime": "2022-09-01 12:00:00",
+      "department": "Engineering",
+      "location": "New York",
+      "email": "amy@example.com",
+      "phone": "+1234567890"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "image": "https://example.com/images/john.jpg",
+      "gender": 1,
+      "job": "Product Manager",
+      "entrydate": "2019-08-15",
+      "updatetime": "2022-08-01 11:00:00",
+      "department": "Product",
+      "location": "San Francisco",
+      "email": "john@example.com",
+      "phone": "+0987654321"
+    },
+    {
+      "id": 3,
+      "name": "Lisa",
+      "image": "https://example.com/images/lisa.jpg",
+      "gender": 2,
+      "job": "UI/UX Designer",
+      "entrydate": "2021-05-21",
+      "updatetime": "2022-12-15 09:30:00",
+      "department": "Design",
+      "location": "London",
+      "email": "lisa@example.com",
+      "phone": "+1122334455"
+    }
+  ]
+}
