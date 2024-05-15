@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "Amy",
-      "image": "https://www.google.com/search?sca_esv=15340b82b342d518&rlz=1C5CHFA_enUS979US979&sxsrf=ADLYWII-xb9FKNj0LBXbVVpvl_EuAUHGvw:1715731976956&q=female+pic+cartoon&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiuopDYr46GAxXlFDQIHbI4BwgQ0pQJegQICxAB&biw=2133&bih=956&dpr=0.9#imgrc=XSv3f22JUJWWSM",
+      "image": "https://www.shutterstock.com/image-vector/cute-thinking-woman-looking-away-600nw-439245706.jpg",
       "gender": 2,
       "job": "Software Development Engineer",
       "entrydate": "2020-01-02",
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "John",
-      "image": "https://example.com/images/john.jpg",
+      "image": "https://t3.ftcdn.net/jpg/06/15/44/70/360_F_615447011_GOGWROsPNgamAzolXBW28iKX3AAXKqMP.jpg",
       "gender": 1,
       "job": "Product Manager",
       "entrydate": "2019-08-15",
@@ -31,7 +31,7 @@
     {
       "id": 3,
       "name": "Lisa",
-      "image": "https://example.com/images/lisa.jpg",
+      "image": "https://t3.ftcdn.net/jpg/01/39/78/34/360_F_139783413_rfP0NRrWI2TuM38VP5CbVHEa5OVVwTEe.jpg",
       "gender": 2,
       "job": "UI/UX Designer",
       "entrydate": "2021-05-21",
